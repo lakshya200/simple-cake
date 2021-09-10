@@ -1,1 +1,1 @@
-# simple-cake
+this recipe is about a cake.
